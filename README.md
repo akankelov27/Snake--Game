@@ -1,7 +1,7 @@
-# Snake Game
+# Snake Game 🐍
 A snake game written in Python using the Pygame library.
 
-## Features
+## Features 🤖
 
 - **Adjustable Difficulty Levels**: Choose from five difficulty levels—Easy, Medium, Hard, Harder, and Impossible—each of which adjusts the speed of the snake and changes its color.
 - **Score Tracking**: Your score increases every time the snake eats food, and your final score is displayed upon game over.
